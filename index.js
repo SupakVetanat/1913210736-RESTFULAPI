@@ -23,7 +23,7 @@ let user = {
 }
 
 const {name,salary,address:{postcode,province}} = user;
-console.log(postcode);
+// console.log(postcode);
 
 // console.log(user.salary);
 // console.log(user.address.postcode);
